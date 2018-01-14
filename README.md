@@ -1,0 +1,2 @@
+# Comments on: Flat Clustering
+[Manning, Christopher, Prabhakar Raghavan and Hinrich Schütze.  2008. “Flat Clustering” and “Hierarchical Clustering.” Chapters 16 and 17 from Introduction to Information Retrieval.](http://nlp.stanford.edu/IR-book/)
